@@ -1,0 +1,25 @@
+{
+  users(
+    where: {
+      name: { eq: "Optimus Prime" }
+      and: { email: { eq: "optimus.prime@autobot.com" } }
+      posts: { any: true }
+    }
+  ) {
+    items {
+      id
+      name
+      email
+      posts {
+        id
+        title
+        content
+        creationDate
+        comments {
+          content
+          creationDate
+        }
+      }
+    }
+  }
+}
