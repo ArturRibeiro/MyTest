@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="898d0fad-18da-4d10-8da3-11466320cba6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/My.sln" beforeDir="false" afterPath="$PROJECT_DIR$/My.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/src/IGenericRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/src/Imp/GenericRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/src/Pattern.Repository.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/src/Usings.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Fakers/DeletePersonFaker.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Fakers/GetAllPersonFaker.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Fakers/GetByIdPersonQueryableFaker.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Fakers/InsertPersonFaker.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Fakers/UpdatePersonFaker.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Pattern.Repository.Unit.Tests.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/PersonRepositoryTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Repositorys/MyDbContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Repositorys/Person.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Repositorys/PersonRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Repository/tests/Pattern.Repository.Unit.Tests/Usings.cs" beforeDir="false" />
-    </list>
+    <list default="true" id="898d0fad-18da-4d10-8da3-11466320cba6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700679370743</updated>
       <workItem from="1700679373348" duration="650000" />
-      <workItem from="1700683525208" duration="4947000" />
+      <workItem from="1700683525208" duration="5246000" />
     </task>
     <servers />
   </component>
